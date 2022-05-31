@@ -1,5 +1,5 @@
-### Hi there 👋 
-## My name is Luke Yamasaki and I love research, testing, design and development!
+## Hi there 👋 
+### My name is Luke Yamasaki and I love research, testing, design and development!
 
 - 🔭 I’m currently working on polishing old group and solo projects.
 - 🌱 I’m currently learning NextJS, Solidity, Sass and Svelte.
