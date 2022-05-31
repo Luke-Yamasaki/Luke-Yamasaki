@@ -8,4 +8,4 @@
 - 💬 Ask me about anything related to Japan.
 - 📫 How to reach me: dreamandbuild@lukeyamasaki.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I trained alongside world champion Xu Xin and Chinese national team member Zhao Zihao at the Cao Yanhua Table Tennis Club in Shanghai http://www.caotts.com
+- ⚡ Fun fact: I am a reverse pen-hold table tennis player and trained alongside world champion Xu Xin and Chinese national team member Zhao Zihao at the Cao Yanhua Club in Shanghai http://www.caotts.com
