@@ -1,6 +1,6 @@
-# Hi, I'm Luke
+# Hi, I'm Luke!
 
-Designer-engineer building modular creative tools for UI, motion, and visual systems.
+Design Engineer building modular creative tools for UI, motion, and visual systems.
 
 ## What I'm focused on
 - Building a monorepo starter platform for multi-app creative products
@@ -9,10 +9,7 @@ Designer-engineer building modular creative tools for UI, motion, and visual sys
 - Shipping with testing-first workflows (Jest, Playwright, Storybook)
 
 ## Tech stack
-- TypeScript, React, Next.js
-- Tailwind CSS, shadcn/ui
-- Turborepo, pnpm workspaces
-- Storybook, Jest, Playwright
+- TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, Turborepo, pnpm workspaces, Storybook, Jest, Playwright
 
 ## Current project
 - **Monorepo Starterpack**: a scalable shell app + subapp architecture with shared packages, quality gates, and component-driven development.
@@ -24,4 +21,3 @@ Designer-engineer building modular creative tools for UI, motion, and visual sys
 
 ## Connect
 - Portfolio: [lukeyamasaki.com](https://lukeyamasaki.com)
-- GitHub: [@Luke-Yamasaki](https://github.com/Luke-Yamasaki)
