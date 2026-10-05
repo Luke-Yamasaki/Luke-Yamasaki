@@ -3,20 +3,21 @@
 Design Engineer building modular creative tools for UI, motion, and visual systems.
 
 ## What I'm focused on
-- Building a monorepo starter platform for multi-app creative products
-- Developing reusable UI/component systems with strong DX
-- Designing tools for swatches, gradients, Storybook-driven component exploration, and design workflows
-- Shipping with testing-first workflows (Jest, Playwright, Storybook)
+- Building **Innspo** — capture UI from the live web, remix it through a closed design system with agents, and ship approved components into Storybook
+- Designing reusable UI systems with strong DX: tokens, recipes, motion, accessibility, and mechanical lint gates
+- Multi-app monorepo architecture for creative products (shared packages, quality gates, component-driven development)
+- Agent-assisted design workflows that stay human-approved
 
 ## Tech stack
-- TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, Turborepo, pnpm workspaces, Storybook, Jest, Playwright
+TypeScript, React, Next.js, Tailwind CSS, Turborepo, pnpm workspaces, Storybook, Playwright, Chrome extensions, Cursor Cloud Agents
 
 ## Current project
-- **Monorepo Starterpack**: a scalable shell app + subapp architecture with shared packages, quality gates, and component-driven development.
+**Innspo** — capture → remix → review → Storybook. A design-system platform with a Chrome extension, an agent remix loop, and the Innspo Design System (IDS).
 
 ## Philosophy
 - Build once, reuse everywhere
-- Keep systems modular and state-agnostic
+- Keep systems modular and contract-bound
+- Agents accelerate; humans approve
 - Prioritize accessibility, maintainability, and shipping speed
 
 ## Connect
