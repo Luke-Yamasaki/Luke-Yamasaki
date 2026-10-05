@@ -3,7 +3,7 @@
 Design Engineer building modular creative tools for UI, motion, and visual systems.
 
 ## What I'm focused on
-- Building **Innspo** — capture UI from the live web, remix it through a closed design system with agents, and ship approved components into Storybook
+- Building **Innspo** — capture external UI components with a Chrome extension, remix it through a closed design system with agents, and ship new components into Storybook by approving or denying them in a React kanban.
 - Designing reusable UI systems with strong DX: tokens, recipes, motion, accessibility, and mechanical lint gates
 - Multi-app monorepo architecture for creative products (shared packages, quality gates, component-driven development)
 - Agent-assisted design workflows that stay human-approved
